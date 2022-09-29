@@ -1,73 +1,91 @@
+.don{
+    width: 1250px;
+    height: 100px;
+    background-color: rgb(6, 73, 6);
+}
+.di{
+    margin-left: 1000px;
+    margin-top: 50px;
+}
+.bo{
+    border-radius: 0%;
+}
+.ob{
+    border-radius: 0%;
+}
+.de{
+    margin-bottom: 35px;
+}
 .up{
-    
+margin-top: 100px;    
 }
 .btn-1{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
     margin-bottom: 2px;
     margin-left: 500px;
 } 
 .btn-2{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
     
 }
 .btn-3{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
     
 }
 .btn-4{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
     margin-right: 3px;
     margin-bottom: 2px;
     margin-left: 500px;
 }
 .btn-5{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
 }
 .btn-6{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
 }
 .btn-7{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
     margin-bottom: 2px;
     margin-left: 500px;
 }
 .btn-8{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
 }
 .btn-9{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
 }
 .btn-0{
     background-color: rgb(50, 50, 50);
-    width: 40px;
-    height: 30px;
+    width: 50px;
+    height: 40px;
 }
 .btn-corrige{
     background-color: rgb(250, 96, 0);
     width: 100px;
-    height: 30px;
-    margin-left: 440px;
+    height: 40px;
+    margin-left: 450px;
 }
 .btn-confirma{
     background-color: rgb(0, 255, 21);
     width: 100px;
-    height: 30px;
+    height: 40px;
 }
