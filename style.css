@@ -16,8 +16,18 @@
 .de{
     margin-bottom: 35px;
 }
+.uol{
+    height: 100px;
+    width: 100px;
+    color: black;
+}
 .up{
 margin-top: 100px;    
+}
+.btn-l{
+    width: 100px;
+    height: 100px;
+    background-color: black;
 }
 .btn-1{
     background-color: rgb(50, 50, 50);
